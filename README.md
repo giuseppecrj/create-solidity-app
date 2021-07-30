@@ -3,7 +3,7 @@ This is a [Hardhat](https://hardhat.org/) project to create contracts and test t
 ## Getting Started
 
 ```sh
-git clone https://github.com/giuseppecrj/creae-solidity-app.git
+git clone https://github.com/giuseppecrj/create-solidity-app.git
 
 cd create-solidity-app
 
